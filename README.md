@@ -38,7 +38,6 @@ Most of my professional work is in private repositories for clients and internal
 
 <p align="center">
   <img alt="Followers" src="https://img.shields.io/github/followers/AMN-2?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" />
-  <img alt="Public repositories" src="https://img.shields.io/badge/Public%20repositories-3-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Organization" src="https://img.shields.io/badge/Organization-Smart%20Choice%20IQ-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <p align="center">
