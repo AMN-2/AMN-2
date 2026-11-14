@@ -26,7 +26,8 @@ My work spans **mobile, web, backend and systems**, and I am most useful where t
 | **Web & frontend** | Vue.js portals and dashboards, JavaScript interfaces, responsive HTML/CSS |
 | **Backend & ERP** | Python services, Frappe / ERPNext applications, versioned server APIs, multi-company configuration, PHP back-ends |
 | **SaaS & access control** | Central Control Plane, subscription plans and grace periods, per-customer feature grants, server-enforced permissions |
-| **Systems & servers** | Linux administration over SSH, deployment and environment setup, infrastructure tooling, security platform work |
+| **Infrastructure & servers** | Resource and server management: a multi-cloud orchestrator for servers, sites and deployments (DigitalOcean, Frappe Cloud), Linux administration, runbooks and port/DNS inventories |
+| **Application security** | A security platform that orchestrates scanners (SonarQube, Semgrep, Trivy, OWASP ZAP, Nuclei, MobSF), normalizes findings, and applies risk and policy rules |
 | **Systems programming** | C++ projects and coursework |
 
 ## Public work
@@ -86,6 +87,18 @@ Most of my professional work is in private repositories for clients and internal
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logoColor=white)
+
+## Infrastructure, security and delivery
+
+- **Infrastructure control:** designed an orchestrator that provisions and manages servers, benches and sites through one audited job engine, with monitoring and Ansible-based deployment. Documented as contracts (OpenAPI) before implementation.
+- **Security platform:** designed an application-security platform: isolated scan jobs, pluggable scanner providers, a normalization and correlation engine, and risk and policy evaluation.
+- **Operations documentation:** maintain server, port, DNS and site inventories, and runbooks for the team.
+- **Technical coordination:** define integration contracts and approval points so that backend, portal and mobile work proceed in parallel without breaking each other.
+
+## Interests
+
+- **Cybersecurity:** application security, secure permission models, and vulnerability management.
+- **AI model development:** building and evaluating machine-learning models; exploring how they can support business software.
 
 ## How I approach a system
 
