@@ -37,8 +37,9 @@ Most of my professional work is in private repositories for clients and internal
 ## GitHub at a glance
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AMN-2&show_icons=true&hide_border=true&theme=midnight-purple" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMN-2&layout=compact&hide_border=true&theme=midnight-purple" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/AMN-2?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" />
+  <img alt="Public repositories" src="https://img.shields.io/badge/Public%20repositories-3-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Organization" src="https://img.shields.io/badge/Organization-Smart%20Choice%20IQ-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <p align="center">
   <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=AMN-2&hide_border=true&theme=midnight-purple" />
