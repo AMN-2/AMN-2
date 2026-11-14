@@ -23,7 +23,7 @@ My work spans **mobile, web, backend and systems**, and I am most useful where t
 | | |
 |---|---|
 | **Mobile applications** | Cross-platform apps with Flutter and Dart, Arabic right-to-left interfaces, state management, offline-tolerant workflows, Firebase services |
-| **Web & frontend** | Vue.js portals and dashboards, JavaScript interfaces, responsive HTML/CSS |
+| **Web & frontend** | Vue.js and React interfaces, Bootstrap-based responsive layouts, JavaScript, HTML5 and CSS3 |
 | **Backend & ERP** | Python services, Frappe / ERPNext applications, versioned server APIs, multi-company configuration, PHP back-ends |
 | **SaaS & access control** | Central Control Plane, subscription plans and grace periods, per-customer feature grants, server-enforced permissions |
 | **Infrastructure & servers** | Resource and server management: a multi-cloud orchestrator for servers, sites and deployments (DigitalOcean, Frappe Cloud), Linux administration, runbooks and port/DNS inventories |
@@ -64,6 +64,8 @@ Most of my professional work is in private repositories for clients and internal
 **Web & frontend**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -71,6 +73,7 @@ Most of my professional work is in private repositories for clients and internal
 **Backend & data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logoColor=white)
 ![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logoColor=white)
