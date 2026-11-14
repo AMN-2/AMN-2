@@ -1,6 +1,9 @@
 <div align="center">
 
-![Ameen Ali · Software Engineer](assets/banner.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Ameen Ali · Software Engineer" src="assets/banner-light.svg" width="100%">
+</picture>
 
 [![Smart Choice IQ](https://img.shields.io/badge/Smart%20Choice%20IQ-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Smart-Choice-IQ)
 [![Portfolio](https://img.shields.io/badge/GitHub-AMN--2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AMN-2)
